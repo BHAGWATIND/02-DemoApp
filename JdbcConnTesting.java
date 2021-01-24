@@ -1,3 +1,4 @@
+/** Only JDBC Testing Driver and Connection*/
 import java.sql.*;
 public class JdbcConnTesting{
 	public static void main(String [] arg)throws Exception{
